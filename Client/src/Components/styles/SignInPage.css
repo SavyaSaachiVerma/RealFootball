@@ -1,0 +1,15 @@
+.SignInPage {
+	display: flex;
+	min-height: 100vh !important;
+	align-items: center;
+	justify-content: center;
+	width: 100%;
+}
+
+.SignInCard {
+	padding:80px !important;
+	width: 50% !important;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+}

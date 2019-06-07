@@ -1,0 +1,9 @@
+.AppFooter{
+	bottom: 0;
+	display: flex;
+	justify-content: flex-end;
+	align-items: center;
+	width: 100%;
+	height: 100px;
+	background-color: #000080;
+}

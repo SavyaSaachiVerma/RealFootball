@@ -1,0 +1,21 @@
+.score {
+	display:flex;
+	flex-direction: row;
+	align-items: center;
+	justify-content: space-evenly;
+	padding-bottom: 30px;
+}
+
+.info{
+	display:flex;
+	flex-direction: row;
+	align-items: baseline;
+	justify-content: space-between;
+}
+
+.infoItem {
+	height: 20px !important;
+}
+.stats {
+	padding: 30px !important;
+}

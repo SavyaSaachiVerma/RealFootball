@@ -1,0 +1,9 @@
+.TeamImage{
+	width: 75px;
+	height: 75px;
+	margin-left: 20px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-style: solid;
+	border-radius: 75px;
+}

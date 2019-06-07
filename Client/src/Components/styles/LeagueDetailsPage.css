@@ -1,0 +1,9 @@
+.PageContainer{
+	width: 100% !important;
+	padding: 50px !important;
+	display: flex;
+	flex-direction: row;
+	align-items: flex-start;
+	/*background-color: #dcdef5 !important;*/
+
+}

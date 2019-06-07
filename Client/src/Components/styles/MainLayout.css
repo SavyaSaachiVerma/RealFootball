@@ -1,0 +1,10 @@
+.MainLayout {
+	background-color: #dcdef5 !important;
+	width: 100%;
+	min-height: 100vh !important;
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	left: 0;
+	right: 0;
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Real-Football",
+  "version": "1.0.0",
+  "description": "Web Application for Football Statistics",
+  "scripts": {
+    "start": "nodemon --exec node server.js"
+  },
+  "babel": {
+    "presets": [
+      "env",
+      "react"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab.engr.illinois.edu/gpnaik2/final-project.git"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^5.4.18",
+    "nodemon": "^1.11.0"
+  }
+}

@@ -1,0 +1,13 @@
+.Search {
+	margin-top: 10px;
+	margin-right: 10px;
+	width: 500px;
+}
+.SearchContainer {
+	width:100%;
+	padding: 10px;
+	align-self: stretch;
+	display: flex;
+	align-items: center;
+	justify-content: flex-end;
+}

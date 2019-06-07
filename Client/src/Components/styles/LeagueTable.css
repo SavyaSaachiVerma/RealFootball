@@ -1,0 +1,16 @@
+.LeagueTable {
+	width: 60% !important;
+	padding: 50px !important;
+	margin: 30px !important;
+	margin-left: 100px;
+
+
+}
+
+.LeagueLogo {
+	background-color: transparent !important;
+	padding-bottom: 35px !important;
+	width: 200px;
+	display: flex;
+	align-items: left;
+}

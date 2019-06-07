@@ -1,0 +1,19 @@
+.SortFilter {
+	display: flex !important;
+	flex-direction: row-reverse !important;
+	width: 100%;
+}
+
+.dropdown {
+	width: 40% !important;
+}
+
+.SearchPage {
+	width:100%;
+	padding: 30px !important;
+}
+
+.SearchListItem {
+	display: flex;
+	justify-content: center;
+}
